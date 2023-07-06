@@ -8,7 +8,6 @@ Full-stack software engineer based in Colorado with proficiency in Ruby, Ruby on
 ![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Rails-CC342D?style=flat&logo=rubyonrails&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=black&style=flat&color=yellowgreen)
 ![Postman](https://camo.githubusercontent.com/5dbc91c96697ff4e6626a305019cc44bdadab5146d3ad9269497e9bff6bd0605/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666c6174)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)

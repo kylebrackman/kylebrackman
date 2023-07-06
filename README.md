@@ -2,6 +2,8 @@
 
 Full-stack software engineer based in Colorado with proficiency in Ruby, Ruby on Rails, JavaScript, React, and Node.js. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
 
+When I'm not coding, I am likely rock climbing (everything between sport, trad, and bouldering), exercising, or playing chess (getting beat). 
+
 ## Proficiencies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)

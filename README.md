@@ -15,3 +15,7 @@ Full-stack software engineer based in Colorado with proficiency in Ruby, Ruby on
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=black&style=flat)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=black&style=flat) 
 ![CSS](https://img.shields.io/badge/et_cetera-000000?logo=none&logoColor=black&style=flat) 
+
+## Blog & LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />

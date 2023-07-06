@@ -18,6 +18,8 @@ Full-stack software engineer based in Colorado with proficiency in Ruby, Ruby on
 
 ## Blog & LinkedIn
 <a href="https://www.linkedin.com/in/kyle-brackman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <img height='40' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/@kyle.a.brackman">
+  <img height='40' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>

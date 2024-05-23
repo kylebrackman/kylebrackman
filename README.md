@@ -1,6 +1,6 @@
 # Kyle Brackman
 
-Full-stack software engineer based in Colorado with proficiency in Ruby, Ruby on Rails, Python, Django, PHP, Laravel, JavaScript, React, Node.js, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
+Full-stack software engineer based in Colorado with proficiency in JavaScript, Node.js, Python, Ruby, Ruby on Rails, Django, PHP, Laravel, React, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
 
 When I'm not coding, I am likely rock climbing (everything between sport, trad, and bouldering), exercising, or playing chess (getting beat). 
 

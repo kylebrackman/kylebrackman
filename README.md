@@ -1,11 +1,12 @@
-# Kyle Brackman
+# Kyle Brackman 🧗🏼‍♂️
 
-Full-stack software engineer based in Colorado with proficiency in JavaScript, Node.js, Python, Ruby, Ruby on Rails, Django, PHP, Laravel, React, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
+Hi, I'm Kyle, a Full-stack software engineer based in Colorado with proficiency in JavaScript, Node.js, Python, Ruby, Ruby on Rails, Django, PHP, Laravel, React, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
 
 When I'm not coding, I am likely rock climbing (everything between sport, trad, and bouldering), exercising, or playing chess (getting beat). 
 
 ## Proficiencies
 
+![Node](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)

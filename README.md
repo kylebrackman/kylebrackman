@@ -28,9 +28,6 @@ When I'm not coding, I am likely rock climbing (everything between sport, trad, 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Blog & LinkedIn
-<a href="https://www.linkedin.com/in/kyle-brackman/">
-  <img height='40' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-<a href="https://medium.com/@kyle.a.brackman">
-  <img height='40' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-brackman/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kyle.a.brackman)
+

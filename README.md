@@ -6,7 +6,7 @@ When I'm not coding, I am likely rock climbing (everything between sport, trad, 
 
 ## Proficiencies
 
-![Node](https://img.shields.io/Node.js/v/npm.svg?logo=nodedotjs)
+![Node](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)

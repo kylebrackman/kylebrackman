@@ -1,13 +1,14 @@
 # Kyle Brackman 🧗🏼‍♂️
 
-Software engineer based in Colorado with proficiency in TypesScript, Node.js, Python, Ruby, Ruby on Rails, Django, PHP, React, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
+Software engineer based in Colorado with proficiency in TypesScript, Golang, Node.js, Python, Ruby, Ruby on Rails, Django, PHP, React, and AWS. Highly competitive and creative thinker, with a focus on delivering exceptional results while working with dynamic, cooperative groups. 
 
 When I'm not coding, I am likely rock climbing (everything between sport, trad, and bouldering), exercising, or playing chess (getting beat). 
 
 ## Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
